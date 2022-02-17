@@ -1,17 +1,13 @@
-.App {
+.wrapper {
+    padding: 20px;
+    background-color: rgb(142, 115, 167);
+    color: white;
     text-align: center;
 }
 
-.App-logo {
-    height: 40vmin;
-    pointer-events: none;
+body {
+    background-color: rgba(165, 42, 42, 0.52);
 }
-
-.wrapper {
-    padding: 20px;
-}
-
-
 
 @media (prefers-reduced-motion: no-preference) {
     .App-logo {
